@@ -1,6 +1,8 @@
 # synent-task-task3-Exploratory-Data-Analysis-EDA--Kanksha
 # Netflix Data Analysis using Python
 
+Video Link: https://drive.google.com/file/d/1cf0c8xph3-YcCJ18AePziYW0AufeNG6Z/view?usp=drive_link
+
 ## Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on the Netflix dataset using Python. The analysis helps identify trends, patterns, and insights related to Netflix content such as movies and TV shows.
 
